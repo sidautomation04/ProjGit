@@ -4,9 +4,6 @@
   <test name="Default test" verbose="2">
     <classes>
       <class name="development.NewClass"/>
-      	<methods>
-          <include name="testgooglesearch"/>
-        </methods>
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Default suite -->
